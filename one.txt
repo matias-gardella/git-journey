@@ -1,1 +1,2 @@
 hello
+Adding dark mode functionality
